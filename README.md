@@ -23,4 +23,11 @@
 [![Foo](https://img.icons8.com/ios-filled/50/000000/ionic.png)](https://ionicframework.com/)
 [![Foo](https://img.icons8.com/clouds/100/000000/react.png)](https://reactnative.dev/)
 
+
+<br/><br/>
+
+[![Kevingos GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevingo710&show_icons=true)](https://github.com/kevingo710)
+
+<br/>
+
  
