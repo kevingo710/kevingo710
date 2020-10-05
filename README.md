@@ -15,7 +15,6 @@
 <img src="https://img.icons8.com/color/50/000000/angularjs.png"/>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-<img src="https://img.icons8.com/color/50/000000/nginx.png"/>
 
 
 
