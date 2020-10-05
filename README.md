@@ -5,25 +5,21 @@
 
 #### 💼 Currently working as: Developer at [Internet es Poder](https://internetespoder.com/)
 
-#### Programming Languages
+#### 🛠️Tech Stack
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 
-#### Web
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 
-#### Frontend
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <img src="https://img.icons8.com/color/50/000000/angularjs.png"/>
 
-#### Backend
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 
-#### Tools
 <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-<img src="https://img.icons8.com/color/100/000000/nginx.png"/>
+<img src="https://img.icons8.com/color/50/000000/nginx.png"/>
 
 
 
