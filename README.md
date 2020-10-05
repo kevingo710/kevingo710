@@ -19,6 +19,8 @@
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 
 #### 📲 Mobile Development
-<a src="https://ionicframework.com/"><img src="https://img.icons8.com/ios-filled/50/000000/ionic.png"/>
-<a src="https://reactnative.dev/"><img src="https://img.icons8.com/clouds/100/000000/react.png"/>
+<a src="https://ionicframework.com/"><img src="https://img.icons8.com/ios-filled/50/000000/ionic.png"/></a>
+
+<a src="https://reactnative.dev/"><img src="https://img.icons8.com/clouds/100/000000/react.png"/></a>
+
  
