@@ -5,7 +5,7 @@
 
 #### 💼 Currently working as: Developer at [Internet es Poder](https://internetespoder.com/)
 
-#### Tech & Tools that I use:
+#### 🛠 Tech Stack
 
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
