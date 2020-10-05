@@ -27,10 +27,9 @@
 
 #### 🗄️ Databases
 
+[![Foo](https://img.icons8.com/ios-filled/50/000000/postgreesql.png)](https://www.postgresql.org/)
 [![Foo](https://img.icons8.com/color/48/000000/mongodb.png/)](https://www.mongodb.com/)
 [![Foo](https://img.icons8.com/ios/50/000000/mysql-logo.png)](https://www.mysql.com/)
-[![Foo](https://img.icons8.com/color/48/000000/postgreesql.png)](https://www.postgresql.org/)
-
 
 
 <br/><br/>
