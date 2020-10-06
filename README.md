@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm Kevin 👨‍💻
 
-
-#### 📍 Currently base at: EC
-
 #### 💼 Currently working as: JavaScript Developer at [Internet es Poder](https://internetespoder.com/)
 
 #### 🛠️Tech Stack
