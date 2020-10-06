@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kevin Gracia 👨‍💻
+### Hi there 👋, I'm Kevin 👨‍💻
 
 
 #### 📍 Currently base at: EC
