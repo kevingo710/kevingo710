@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kevin 👨‍💻
+### Hi there 👋, I'm KevinG 👨‍💻
 
 #### 💼 Currently working as: JavaScript Developer at [Internet es Poder](https://internetespoder.com/)
 
