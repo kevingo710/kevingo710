@@ -19,7 +19,6 @@
 
 #### 📲 Mobile Development
 
-[![Foo](https://img.icons8.com/ios-filled/50/000000/ionic.png)](https://ionicframework.com/)
 [![Foo](https://kimerikal.com/wp-content/uploads/2021/04/react-native-rename.jpg)](https://reactnative.dev/)
 
 
