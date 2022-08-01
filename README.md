@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm KevinG 👨‍💻
 
-#### 💼 Currently working as: JavaScript Developer at [Internet es Poder](https://internetespoder.com/)
+#### 💼 Currently working as: JavaScript Developer at [Internet es Poder](https://internetespoder.ec/)
 
 #### 🛠️Tech Stack
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
@@ -20,7 +20,7 @@
 #### 📲 Mobile Development
 
 [![Foo](https://img.icons8.com/ios-filled/50/000000/ionic.png)](https://ionicframework.com/)
-[![Foo](https://img.icons8.com/clouds/100/000000/react.png)](https://reactnative.dev/)
+[![Foo](https://kimerikal.com/wp-content/uploads/2021/04/react-native-rename.jpg)](https://reactnative.dev/)
 
 
 #### 🗄️ Databases
