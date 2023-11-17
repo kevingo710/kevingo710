@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm KevinG 👨‍💻
 
-#### 💼 Currently working as: JavaScript Developer at [Internet es Poder](https://internetespoder.ec/)
-
 #### 🛠️Tech Stack
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
