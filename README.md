@@ -28,11 +28,4 @@ My blog: https://dev.to/kevingo710
 [![Foo](https://api.iconify.design/simple-icons:neo4j.svg?height=50)](https://neo4j.com/)**Neo4j**
 
 
-<br/><br/>
-
-[![Kevingos GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevingo710&show_icons=true)](https://github.com/kevingo710)
-
-<br/>
-
-
  
