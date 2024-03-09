@@ -1,4 +1,5 @@
-### Hi there 👋, I'm KevinG 👨‍💻
+### Hi there 👋, I'm KevinG 👨‍💻 
+My blog: https://dev.to/kevingo710
 
 #### 🛠️Tech Stack
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
